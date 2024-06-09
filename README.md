@@ -33,7 +33,7 @@ Para ejecutar el sistema en otro PC, sigue estos pasos:
    - IDE compatible con Java como IntelliJ IDEA, Eclipse, o similar.
 
 2. **Clonar el Repositorio**:
-git clone <URL del repositorio>
+git clone <[URL del repositorio](https://github.com/Gonzalez-Gaston/Seminario-de-practica-S21/tree/main)>
 
 
 3. **Importar el Proyecto**:
